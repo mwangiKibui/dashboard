@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/dashboard/static/css/main.40250860.chunk.css",
+    "main.js": "/dashboard/static/js/main.7b48da08.chunk.js",
+    "main.js.map": "/dashboard/static/js/main.7b48da08.chunk.js.map",
+    "runtime-main.js": "/dashboard/static/js/runtime-main.65317662.js",
+    "runtime-main.js.map": "/dashboard/static/js/runtime-main.65317662.js.map",
+    "static/css/2.9fceafe6.chunk.css": "/dashboard/static/css/2.9fceafe6.chunk.css",
+    "static/js/2.aaeeb779.chunk.js": "/dashboard/static/js/2.aaeeb779.chunk.js",
+    "static/js/2.aaeeb779.chunk.js.map": "/dashboard/static/js/2.aaeeb779.chunk.js.map",
+    "index.html": "/dashboard/index.html",
+    "precache-manifest.f7c471f9513403e60918c062c86ce1fe.js": "/dashboard/precache-manifest.f7c471f9513403e60918c062c86ce1fe.js",
+    "service-worker.js": "/dashboard/service-worker.js",
+    "static/css/2.9fceafe6.chunk.css.map": "/dashboard/static/css/2.9fceafe6.chunk.css.map",
+    "static/css/main.40250860.chunk.css.map": "/dashboard/static/css/main.40250860.chunk.css.map",
+    "static/media/brand.png": "/dashboard/static/media/brand.79da4e87.png",
+    "static/media/login_image.jpg": "/dashboard/static/media/login_image.99de77d3.jpg",
+    "static/media/marc.jpg": "/dashboard/static/media/marc.53a97b21.jpg",
+    "static/media/sidebar-2.jpg": "/dashboard/static/media/sidebar-2.310509c9.jpg",
+    "static/media/signup_image.jpg": "/dashboard/static/media/signup_image.5c49662d.jpg",
+    "static/media/slick-theme.css": "/dashboard/static/media/slick.f97e3bbf.svg"
+  }
+}
